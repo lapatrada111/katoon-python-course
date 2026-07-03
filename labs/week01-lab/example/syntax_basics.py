@@ -76,17 +76,17 @@ print("a =", a, "b =", b, "c =", c)
 # Exercise 7: Practice with Different Data Types
 # Complete the following assignments:
 
-# String variable containing your favorite color
-favorite_color = 
+# String variable containing your favorite colora
+favorite_color = "Red"
 
 # Integer variable with the current year
-current_year = 
+current_year = 2550
 
 # Float variable with your favorite number (with decimal)
-favorite_number = 
+favorite_number = 1
 
 # Boolean variable indicating if you like pizza
-likes_pizza = 
+likes_pizza = False
 
 # Print all variables with descriptive messages
 print("My favorite color is:", favorite_color)
