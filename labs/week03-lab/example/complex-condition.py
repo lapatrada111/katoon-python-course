@@ -1,6 +1,11 @@
+# arithmetic operators --> + - * / % // **
+# comparison operators --> == != < > <= >=
+# logicol operators --> and (&&) or (||) not (!)
+
 # Multiple conditions with logical operators
 username = "admin"
 password = "12345"
+is_active = True
 is_active = True
 
 if username == "admin" and password == "12345" and is_active:
@@ -30,3 +35,6 @@ if weather == "sunny":
         print("Sunny but cold")
 else:
     print("Not a sunny day")
+
+if weather == "sunday" and temperature > 25:
+    print("Perfect day for swimming!")
