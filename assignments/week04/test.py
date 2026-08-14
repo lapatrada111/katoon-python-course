@@ -4,7 +4,7 @@
 #What is your name? : Boonchoo
 #You have 4 vowels in your text.
 #name = input("What is your name? :")
-name = "siriwimol"
+name = "lapatrada"
 letters = list(name)
 print(letters)
 counter = 0
