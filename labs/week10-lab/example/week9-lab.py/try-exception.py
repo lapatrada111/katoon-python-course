@@ -44,8 +44,6 @@ except PermissionError:
     print("ไม่มีสิทธิ์เข้าถึงไฟล์นี้")
  
  
-#raise
-#
  
 try:
     score = float(input("กรอกคะแนน 0-100: "))
