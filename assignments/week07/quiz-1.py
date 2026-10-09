@@ -10,9 +10,11 @@ class Rectangle:
         self.length = length
         self.width = width
 
+
     # Method to get the area
     def get_area(self):
         return self.length * self.width
+    
 
     # Method to get the perimeter
     def get_perimeter(self):
